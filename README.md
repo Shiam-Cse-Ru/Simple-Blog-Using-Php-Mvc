@@ -1,7 +1,7 @@
 A Most Simple PHP MVC 
 ====================
 
-Just a blog application: 
+Just a blog application: <br>
 This shows how one can build an MVC app with PHP.<br></br>
 Using Language:php_Mvc Framework,Mysql,Bootstrap
 
