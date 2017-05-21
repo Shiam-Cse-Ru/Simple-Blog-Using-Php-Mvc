@@ -6,7 +6,7 @@ Just a blog application:
 This shows how one can build an MVC app with PHP.<br></br>
 Using Language:php_Mvc Framework,Mysql,Bootstrap
 
-Copyright (c) <2017> <b>Abdullah Al Shiam
+Copyright (c) <2017> <b>Abdullah Al Shiam</b>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
